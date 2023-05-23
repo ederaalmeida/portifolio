@@ -77,7 +77,7 @@ span {
 .apresentacao__conteudo__texto {
     font-family: var(--fonte-primaria);
     font-size: 1.25rem;
-    width: 70%;
+    /*width: 70%;*/
 }
 
 .apresentacao__conteudo__menu__lista {
